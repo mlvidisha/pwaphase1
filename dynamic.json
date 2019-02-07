@@ -1,0 +1,81 @@
+{
+	"profile":{
+		"img":"images/pro.png",
+		"name":"LEELA VIDISHA MANDPAKA",
+		"roll":"16a31b0517",
+		"institute":"pragati engineering college",
+		"designation":"student",
+		"mailid":"mlvidisha@gmail.com"
+},
+
+	"career":{
+		"info":"to become web developer"
+	},
+	
+		"education":[
+		{
+		"sno":"1",
+		"degree":"b.tech",
+		"institute":"pragati",
+		"yop":"2020"	
+		},
+		
+		{
+		"sno":"2",
+		"degree":"inter",
+		"institute":"chaitanya",
+		"yop":"2016"
+		},
+
+		{
+		"sno":"3",
+		"degree":"10th",
+		"institute":"SDM",
+		"yop":"2014"	
+		}
+	],
+		"languages":[
+			{
+				"lang":"english"
+			},
+			{
+				"lang":"hindi"
+			},
+			{
+				"lang":"telugu"
+			}
+
+		],
+	
+
+
+	"skills":[
+			{
+				"skill":"java"
+			},
+			{
+				"skill":"javascript"
+			},
+			{
+				"skill":"c"
+			}
+
+		]
+	}
+
+		
+
+
+
+		
+
+
+
+
+
+
+
+
+	
+
+	
